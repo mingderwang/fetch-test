@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "apisauce": "^2.0.0",
+    "axios": "^0.21.0",
+    "fetch": "^1.1.0",
+    "got": "^11.8.0",
+    "node-fetch": "^2.6.1"
+  }
+}
